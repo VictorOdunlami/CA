@@ -1,2 +1,2 @@
-# CA
-Assignment
+MY assignment contains pretty basic functions. I included two files, my main one whic i named 'CA' and another class file named 'Star'.
+In my assignment i included a library called 'Conrolp5' which made creating a UI alot easier for me. Controlp5 contained alot of useful controls and functions that helped me with my assignment alot. Most of my assignment is made up of Controls that come with the Controlp5 library, i also included a starfiled like illusion in my code which i am very proud of. In order to run my code i believe you will have to import the Controlp5 library. 
